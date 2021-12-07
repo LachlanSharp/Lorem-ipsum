@@ -1,7 +1,13 @@
 # Lorem-ipsum
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+* **Author**: Lachlan Sharp
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+## WebCrawler and NLP System
 
-This is something new I've written
+This project attempts to broaden knowledge around horse health, by investigating the open question of whether the application of natural language processing (NLP) techniques provides any insights or opportunities for further study. The solution proposed consisted of two major parts:
+
+1. WebCrawler: for extracting horse health issues from internet forum posts.
+    * Source: https://www.horseforum.com/forums/horse-health.17/
+2. NLP system: two NLP tasks were performed:
+    a. Topic modelling: to identify or group main areas of horse health issues.
+    b. Sentiment analysis: to identify whether severity of condition or outcome could be determined for each topic modelled.
