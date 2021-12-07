@@ -11,4 +11,5 @@ This project attempts to broaden knowledge around horse health, by investigating
 2. NLP system: two NLP tasks were performed:
 
     a. Topic modelling: to identify or group main areas of horse health issues.
+    
     b. Sentiment analysis: to identify whether severity of condition or outcome could be determined for each topic modelled.
